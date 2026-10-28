@@ -1,11 +1,3 @@
-<h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: Naveen kumar V   </h3>
-<h3>Register Number:  212223230140   </h3>
-<H3>Aim:</H3>
-<p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
-<h2> Theory: </h2>
-<p>Hill climbing is a variant of Generate and test in which feedback from test procedure is used to help the generator decide which direction to move in search space.
-Feedback is provided in terms of heuristic function
 </p><h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name: Naveen kumar V </h3>
 <h3>Register Number: 212223230140 </h3>
